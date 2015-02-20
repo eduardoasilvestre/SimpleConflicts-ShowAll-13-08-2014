@@ -1,0 +1,5 @@
+25/11/2014
+Esta versao tem os algoritmos de verificação dupla de conflitos entre normas. 
+printNormsExample(), showSimpleDirectConflictsBetween2Norms() e showAllSimpleDirectConflictsBetween2Norms()
+Esta versão está mais completa que a versão anterior "SimpleConflicts-CompareOnlyTwo-11-07-2014"
+
